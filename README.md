@@ -13,6 +13,8 @@ I am currently studying Computer Science at UFRJ and I'm always willing to learn
 <br>
 <br>
 
+
+
 <div align="center">
   <img align="center" width="50%" src="https://c.tenor.com/88SIL_3fLBoAAAAC/tenor.gif"/>
 </div>
