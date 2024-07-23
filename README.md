@@ -8,4 +8,4 @@ I am currently studying Computer Science at UFRJ and always willing to learn som
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=xolovemari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![tec tec tec](https://tenor.com/view/lov4hob-jungkook-typing-hello-kitty-typing-gif-24294139)
+![tec tec tec](https://media.tenor.com/yaf-HiOk9jwAAAAC/lov4hob-jungkook-typing.gif)
