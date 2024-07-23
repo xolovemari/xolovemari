@@ -1,5 +1,6 @@
 ## 👋 Hello! 
-I'm xolovemari mostly of time but you can call me "Mariana".
+I'm **xolovemari** mostly of time but you can call me **Mariana**.
+
 I am currently studying Computer Science at UFRJ and always willing to learn something new!
 
 <div>
