@@ -9,7 +9,12 @@ I am currently studying Computer Science at UFRJ and I'm always willing to learn
         title="xolovemari Programming Language Usage"/>
     </td>
     <td>
-    <img loading="lazy" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xolovemari&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000&border=CFD4D9&ring=3955CD&fire=ff3068"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xolovemari&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117&border=30363d&ring=3955CD&fire=ff3068&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E757C&sideLabels=6E757C&dates=6E757C"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xolovemari&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000&border=CFD4D9&ring=3955CD&fire=ff3068&currStreakNum=3D4255&sideNums=3D4255&currStreakLabel=6E757C&sideLabels=6E757C&dates=6E757C"/>
+        <img loading="lazy" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xolovemari&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000&border=CFD4D9&ring=3955CD&fire=ff3068"/>
+      </picture>
+    </td>
   </tr>
 </table>
 
