@@ -6,7 +6,7 @@ I am currently studying Computer Science at UFRJ and I'm always willing to learn
 <table>
   <tr>
     <td>
-      <img loading="lazy" width="400px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xolovemari&theme=tokyonight)"/>
+      <img loading="lazy" width="400px" src="https://github-readme-stats-eight-nu-30.vercel.app//api?username=xolovemari"  />
     </td>
     <td>
       <a href="https://github.com/xolovemari">
