@@ -1,5 +1,5 @@
 ## 👋 Hello!
-I'm **xolovemari** most of the time but you can call me **Mariana**.
+I'm **xolovemari** most of the time but you can call me **Mari**.
 I am currently studying Computer Science at UFRJ and I'm always willing to learn something new!
 
 <table>
